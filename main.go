@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
     fmt.Println("Hello, Go Essentials!")
+    fmt.Println("Estou aqui a aprender mais uma linguagem de programação.")
 }
 
 
